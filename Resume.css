@@ -1,0 +1,139 @@
+* {
+  font-family: Bernard MT Condensed;
+}
+.about{
+  text-align: center;
+  background-color: gold;
+font-size: 3em;
+margin-top: 0;
+}
+.about h1{
+  position: relative;
+  right:0.4em;
+}
+.QL {
+  text-align: center;
+  font-size: 2em;
+  width: 45em;
+}
+
+.EDU {
+  text-align: right;
+  padding: 1em;
+  width: 41em;
+  height: 22em;
+  border-style: solid;
+  border-color: white;
+  border-right-color: gold;
+}
+
+.WORK {
+  float: right;
+  position: relative;
+  right: 24.5em;
+  width: 25em;
+  bottom: 24em;
+  border-style: solid;
+  border-color: white;
+}
+
+.SV h1 {
+  text-align: center;
+  font-size: 5em;
+  position: relative;
+  left: 1.9em;
+}
+
+.SV ul li {
+  color: black;
+  padding: 1em;
+  margin-right: 1.5em;
+  position: relative;
+  left: 9em;
+  font-size: 2em;
+  font-weight: 900;
+  text-transform: capitalize;
+  background-color: lightgreen;
+  border-style: solid;
+  display: inline-block;
+}
+
+.SV aside img {
+  margin-right: 1em;
+  display: inline-block;
+  width: 15em;
+  height: 15em;
+  position: relative;
+  left: 20em;
+  padding: 2em;
+  padding-top: 0;
+  border-bottom-left-radius: 3em;
+  border-bottom-right-radius: 8em;
+  border-top-right-radius: 3em;
+  border-top-left-radius: 8em;
+}
+.FAMILY h1{
+  margin-bottom: 2em;
+  font-size: 3em;
+  margin-top: 4em;
+  text-align: center;
+}
+.FAMILY p{
+  float: right;
+  width: 10em;
+  position: relative;
+  right: 12em;
+  font-size: 2em;
+}
+.FAMILY img{
+  position: relative;
+  left: 12em;
+  width: 30em;
+  height: 27em;
+border-top-left-radius:14em;
+border-top-right-radius: 14em;
+border-bottom-left-radius: 14em;
+border-bottom-right-radius: 14em;
+border-style: solid;
+border-color: gold;
+}
+
+.CF h2{
+  font-size: 3em;
+  margin-top: 3em;
+  text-align: center;
+}
+.CF p{
+  position: relative;
+  right:8em;
+  float: right;
+  width: 15em;
+  font-size: 2em;
+}
+.CF img{
+  position: relative;
+  left: 23em;
+  border-radius: 20em;
+  border-style: solid;
+  border-color: gold;
+  width: 20em;
+height: 25em;
+}
+footer a{
+  display: inline-block;
+  position: relative;
+
+}
+.links{
+  margin-top: 2em;
+  position: relative;
+  left: 13em;
+padding-right: 4em;
+font-size: 2em;
+top: 2em;
+
+}
+.links a{
+padding:2em;
+    text-decoration: none;
+}
